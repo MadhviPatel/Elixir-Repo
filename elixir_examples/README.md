@@ -1,6 +1,6 @@
-# FizzBuzz
+# Elixir Examples
+Some basic concepts practice examples
 
-**TODO: Add description**
 
 ## Installation
 
@@ -10,7 +10,7 @@ by adding `fizz_buzz` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:fizz_buzz, "~> 0.1.0"}
+    {:elixir_examples, "~> 0.1.0"}
   ]
 end
 ```
